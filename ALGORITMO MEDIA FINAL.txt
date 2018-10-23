@@ -1,0 +1,5 @@
+ Faça um algoritmo que, tendo como dados de entrada duas notas (G1 e G2) e a
+quantidade de presenças do aluno, calcule e informe sua média, junto da mensagem APROVADO ou
+REPROVADO. Na ULBRA, um aluno é considerado aprovado quando sua média (G1 + G2x2)/3) for maior
+ou igual a 6 e a quantidade de presenças for maior ou igual a 75% do total de aulas ministradas (cada
+disciplina tem 68 aulas). Caso o aluno não atinja a média, mas tenha frequência igual ou superior a 75%, poderá fazer uma prova de substituição de grau , cuja nota deverá substituir a sua nota mais baixa. Neste caso, a média do aluno é recalculada e se for maior ou igual a 6, o aluno estará aprovado; se for menor que 6, o aluno estará reprovado.
