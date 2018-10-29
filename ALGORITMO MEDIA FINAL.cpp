@@ -6,12 +6,11 @@ main()
 int presenca;
 float g1,g2,final,freq,subst;
 
+//Calculo da frequencia:
+printf("Quantas aulas voce assistiu");
+scanf(presenca);
+freq=(presencas*100)/68;
 
-{printf("Quantas aulas voce assistiu")
-scanf(presenca)
-media<-(g1+g2*2)/3
-frequencia<-(presencas*100)/68
-}
 
 
 
